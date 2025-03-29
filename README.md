@@ -127,5 +127,21 @@ npm run start
 
 Your data should be cleared and the database schema reset.
 
+How do I change what merchant I am connecting to?
+Update the merchant id on the init-sdk
+```
+Merchant ids:
+84: airbnb
+78: american airlines
+45: walmart
+44: amazon
+40: instacart
+36: uber eats
+19: doordash
+13: spotify
+12: target
+10: uber
+```
+
 Need Help?
 If you run into any issues or have questions, feel free to ask for assistance. Enjoy hacking and have fun at Hack Princeton!
